@@ -122,6 +122,5 @@ def main():
     else:
         print(f"Volumes download for {latest_date} failed!")
 
-
 if __name__== '__main__':
     main()
